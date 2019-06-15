@@ -1,6 +1,6 @@
-/* body {
-    background: "background.png";
-} */
+body {
+    background-image: url("background.jpg");
+}
 
 h1 {
     text-align: center;
@@ -8,7 +8,8 @@ h1 {
 
 .center {
     text-align: center;
+    te
 }
 .color {
-    color: rgb(107, 216, 201);
+    color: rgb(199, 230, 224);
 }
