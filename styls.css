@@ -1,6 +1,6 @@
-body {
-    background: rgb(29, 29, 29);
-}
+/* body {
+    background: "background.png";
+} */
 
 h1 {
     text-align: center;
@@ -10,5 +10,5 @@ h1 {
     text-align: center;
 }
 .color {
-    color: rgb(143, 241, 225);
+    color: rgb(107, 216, 201);
 }
